@@ -57,3 +57,6 @@ dist-ssr
 *.swp
 *.swo
 *.swn
+
+# Potential files
+backup
